@@ -1,0 +1,6 @@
+Jorge 25
+Roberto 93
+Don 43
+Russ 54
+Merion 9
+Boole 25.54
