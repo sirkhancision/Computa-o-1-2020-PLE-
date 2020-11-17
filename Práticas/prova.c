@@ -1,3 +1,7 @@
+/* Segunda tentativa para a P1, dessa vez
+ * simplesmente por vontade própria e com
+ * um tempo que não me leve à loucura */
+
 #define NULO '2'
 #define FALSE '0'
 #define TRUE '1'
